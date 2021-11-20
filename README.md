@@ -16,12 +16,9 @@ Some of the noteworthy elements of the investigation include:
 
 (c) showing how we can adjust the output from a Gibbs sampler to improve the imputation of censored data.
 
-Items (a) - (c) are found in Part01, Appendix A, and Appendix B. 
+Items (a) - (c) are found in Part01, Appendix A, Appendix B, and Appendix C. 
 
 
-NOTE: the .pdf files are created by converting the .ipynb files using the Firefox browser.  The conversion does not always work that well.  The .pdf files are provided for those who do not want to open up the Jupyter notebook viewer.  The notebooks, however, look far better in the notebook viewer.
-
-One further note: the notebook viewer in Github might have difficulty opening some of the larger notebooks.  One needs to be persistent with the Reload button.
 
 
 
