@@ -14,7 +14,7 @@ Some of the noteworthy elements of the investigation include:
 
 (b) finding a transformation for longitude that dramatically increases its predictive power; the transformed variable eliminates the need for the categorical ocean_proximity variable that Geron introduced
 
-(c) showing how we can adjust the output from a Gibbs sampler to improve the imputation of censored data.
+(c) showing how we can improve upon the Gibbs sampler approach to imputing values for censored data.
 
 Items (a) - (c) are found in Part01, Appendix A, Appendix B, and Appendix C. 
 
